@@ -3,7 +3,8 @@
 A responsive, interactive Tic Tac Toe game built with HTML, CSS, and JavaScript. Designed to be lightweight and engaging with smooth animations, sound effects, and support for all screen sizes.
 
 ![Tic Tac Toe Screenshot]
-![image](https://github.com/user-attachments/assets/beb15634-97b1-4233-a832-30e6f0271762)
+![image](https://github.com/user-attachments/assets/bbc1a981-8bfa-4174-b990-36f8fadd4d79)
+
 
 ## 🎮 Features
 
@@ -18,9 +19,13 @@ A responsive, interactive Tic Tac Toe game built with HTML, CSS, and JavaScript.
 ## 📁 Project Structure
 
 ├── Index.html # Main HTML file
+
 ├── style.css # Styling for layout and animations
+
 ├── script.js # Game logic and interactivity
+
 ├── win.mp3 # Sound effect played on win
+
 ├── excited.gif # Celebration gif shown when game ends
 
 shell
@@ -38,13 +43,11 @@ A modern web browser (Chrome, Firefox, Edge, etc.)
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/tic-tac-toe.git
-Navigate to the project folder:
 
-bash
-Copy
-Edit
+2.Navigate to the project folder:
 cd tic-tac-toe
-Open Index.html in your browser.
+
+3.Open Index.html in your browser.
 
 Alternatively
 Just open Index.html by double-clicking it if you've downloaded the ZIP.
@@ -57,7 +60,8 @@ CSS3
 JavaScript (Vanilla)
 
 📷 Screenshots
-Add screenshots of your game in action here for better visual presentation.
+![image](https://github.com/user-attachments/assets/381f2d41-0b35-47da-89db-f9a7c66613d1)
+
 
 🙌 Acknowledgements
 Inspired by classic pen-and-paper Tic Tac Toe.
@@ -66,11 +70,3 @@ Thanks to all online resources that helped in learning and building this project
 
 
 Have fun playing! 😄
-
-yaml
-Copy
-Edit
-
----
-
-Let me know if you'd like this README in `.md` format or need help adding badges, sc
