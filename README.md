@@ -29,7 +29,7 @@ A responsive, interactive Tic Tac Toe game built with HTML, CSS, and JavaScript.
 
 ├── excited.gif # Celebration gif shown when game ends
 
-## 🚀 Getting Started
+##🚀 Getting Started
 
 ### Prerequisites
 
@@ -47,9 +47,11 @@ cd tic-tac-toe
 3.Open Index.html in your browser.
 
 Alternatively
+
 Just open Index.html by double-clicking it if you've downloaded the ZIP.
 
 💻 Tech Stack
+
 HTML5
 
 CSS3
@@ -62,6 +64,7 @@ JavaScript (Vanilla)
 
 
 🙌 Acknowledgements
+
 Inspired by classic pen-and-paper Tic Tac Toe.
 
 Thanks to all online resources that helped in learning and building this project.
