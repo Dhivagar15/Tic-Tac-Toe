@@ -3,6 +3,7 @@
 A responsive, interactive Tic Tac Toe game built with HTML, CSS, and JavaScript. Designed to be lightweight and engaging with smooth animations, sound effects, and support for all screen sizes.
 
 ![Tic Tac Toe Screenshot]
+
 ![image](https://github.com/user-attachments/assets/bbc1a981-8bfa-4174-b990-36f8fadd4d79)
 
 
@@ -54,12 +55,11 @@ Just open Index.html by double-clicking it if you've downloaded the ZIP.
 
 💻 Tech Stack
 HTML5
-
 CSS3
-
 JavaScript (Vanilla)
 
 📷 Screenshots
+
 ![image](https://github.com/user-attachments/assets/381f2d41-0b35-47da-89db-f9a7c66613d1)
 
 
